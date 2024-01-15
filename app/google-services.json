@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629427671084",
+    "project_id": "ejemplo-firebase-1-1fe76",
+    "storage_bucket": "ejemplo-firebase-1-1fe76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629427671084:android:012bae15e4a17d9f71c189",
+        "android_client_info": {
+          "package_name": "jaime.galiana.ejemplofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR1EqCeJGngTr0ApHm6Ur6fg234NudBRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
